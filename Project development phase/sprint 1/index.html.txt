@@ -41,7 +41,7 @@
             <input type="checkbox" name="Categories" id="p3">
             <label for="p3">Sports</label>
             <input type="checkbox" name="Categories" id="p4">
-            <label for="p4">Tecnology</label><br>
+            <label for="p4">Technology</label><br>
             <input type="checkbox" name="Categories" id="p5">
             <label for="p5">Political News</label> 
 			<input type="checkbox" name="Categories" id="p6">
